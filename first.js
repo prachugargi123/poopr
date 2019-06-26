@@ -10,6 +10,7 @@ var productController=function(req,res){
 	{id:1,title:"Rose",price:500},
 	{id:2,title:"gerbera",price:400},
 	{id:3,title:"marigold",price:200}
+		{id:4,title:"marigold",price:200}
 	];
 	
 	res.send(products);
